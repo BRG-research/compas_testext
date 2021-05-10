@@ -28,7 +28,7 @@ optional_requirements = {}
 
 setup(
     name="compas_testext",
-    version="0.1.1rc2",
+    version="0.1.1",
     description="test",
     long_description=long_description,
     long_description_content_type="text/markdown",
